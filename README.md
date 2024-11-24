@@ -23,4 +23,4 @@ what the code does is really simple, whenever u use the command addpermalias add
 `alias alias="the thing"` 
 the source part reload the config file, so u can use the command immediately 
 
-ty for readin all dis feel free to star it lmao
+ty for readin all dis, feel free to improve the code, this is my first serious repo on github so yk. byeee
