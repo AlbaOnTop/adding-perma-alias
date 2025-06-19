@@ -1,5 +1,5 @@
 # Adding perma alias directly from terminal
-yes its a bit useles u could just go on ur bash file (~/.zshrc or ~/.bashrc idk what ur using) and manualy add
+yes its a bit useles u could just go on ur bash file (~/.zshrc or ~/.bashrc idk what ur using) and add it manualy
 # but here's the installation steps
 here's what u need to do:
 1. open ur terminal (not gonna tell u how, i think u know how to)
