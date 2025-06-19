@@ -2,7 +2,7 @@
 yes its a bit useles u could just go on ur bash file (~/.zshrc or ~/.bashrc idk what ur using) and add it manualy
 # but here's how to do it
 here's what u need to do:
-1. open ur terminal (not gonna tell u how, i think u know how to)
+1. open ur terminal (not gonna tell u how, i think u know how)
 2. open ur terminal config file(~/.bashrc or idk search on google where it is) with ur fav text editor, u can do it with vsc using `code (path)`
 3. go on ur last line and write this lil piece of code: 
 ```	
